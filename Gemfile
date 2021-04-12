@@ -62,3 +62,5 @@ gem 'pry-rails'
 
 gem 'mini_magick'
 gem 'image_processing', '~> 1.2'
+
+gem 'rails_admin', '~> 2.0.0.beta'
